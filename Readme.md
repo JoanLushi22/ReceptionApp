@@ -4,7 +4,7 @@
 
 #### Joan Lushi
 #### Denis Zanaj
-#### Eduard 
+#### Eduard Bajo
 
 ## Project description
 
