@@ -1,6 +1,7 @@
 RceptionApp
 
-Membrs:
+Members:
+
 Joan Lushi
 Denis Zanaj
 Eduard 
